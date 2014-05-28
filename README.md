@@ -26,3 +26,10 @@ A simple theme for NodeBB. Check out the theming guide that accompanies this wor
 ## Credits
 
 variables.less modified from "White Plum" by [divshot](https://github.com/divshot/)
+
+
+Fork后的修改：
+
+在帖子分享中添加了中文社交分享，如QQ空间、微博、人人等，使用百度分享插件。修改了topic.tpl。
+
+与nodebb-theme-vanilla配合使用，在修改版的vanilla中修改了share_dropdown.tpl，在分类（category）中进行分享。
